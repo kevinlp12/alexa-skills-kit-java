@@ -91,9 +91,6 @@
       ]
     },
     {
-      "intent": "SupportedCitiesIntent"
-    },
-    {
       "intent": "AMAZON.HelpIntent"
     },
     {
