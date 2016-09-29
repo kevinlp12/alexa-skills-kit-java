@@ -1,20 +1,48 @@
 {
   "intents": [
     {
-      "intent": "OneshotTideIntent",
+      "intent": "FindFramesIntent",
       "slots": [
         {
-          "name": "City",
-          "type": "LIST_OF_CITIES"
+          "name": "New",
+          "type": "LIST_OF_NEW"
         },
         {
-          "name": "State",
-          "type": "LIST_OF_STATES"
+          "name": "Gender",
+          "type": "LIST_OF_GENDER"
         },
         {
-          "name": "Date",
-          "type": "AMAZON.DATE"
-        }
+          "name": "Brand",
+          "type": "LIST_OF_BRAND"
+        },
+        {
+          "name": "Color",
+          "type": "LIST_OF_COLOR"
+        },
+        {
+          "name": "Shape",
+          "type": "LIST_OF_Shape"
+        },
+        {
+          "name": "Rim",
+          "type": "LIST_OF_RIM"
+        },
+        {
+          "name": "Material",
+          "type": "LIST_OF_MATERIAL"
+        },
+        {
+          "name": "Size",
+          "type": "LIST_OF_SIZE"
+        },
+        {
+          "name": "Progressive",
+          "type": "LIST_OF_PROG"
+        },
+        {
+          "name": "Price",
+          "type": "LIST_OF_PRICE"
+        },
       ]
     },
     {
