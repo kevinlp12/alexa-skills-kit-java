@@ -1,3 +1,28 @@
+OneShotFindFramesIntent show {New} frames
+OneShotFindFramesIntent get {New} frames
+OneShotFindFramesIntent display {New} frames
+OneShotFindFramesIntent show me {Gender} frames
+OneShotFindFramesIntent show me frames for {Gender}
+OneShotFindFramesIntent get me frames for {Gender}
+OneShotFindFramesIntent show me {Color} frames
+OneShotFindFramesIntent show me frames that are {Color}
+OneShotFindFramesIntent {Color} frames
+OneShotFindFramesIntent show me {Shape} frames
+OneShotFindFramesIntent show me frames that are {Shape}
+OneShotFindFramesIntent {Shape} frames
+OneShotFindFramesIntent show me {Rim} frames
+OneShotFindFramesIntent show me frames that are {Rim}
+OneShotFindFramesIntent {Rim} frames
+OneShotFindFramesIntent show me {Material} frames
+OneShotFindFramesIntent show me frames that are {Material}
+OneShotFindFramesIntent show me frames made out of {Material}
+OneShotFindFramesIntent {Material} frames
+OneShotFindFramesIntent show me {Size} frames
+OneShotFindFramesIntent {Size} frames
+OneShotFindFramesIntent show me frames with {Progressive} available
+OneShotFindFramesIntent {Progressive} frames
+OneShotFindFramesIntent show me frames between {Price}
+
 DialogTideIntent {City}
 DialogTideIntent {City} {State}
 DialogTideIntent {Date}
