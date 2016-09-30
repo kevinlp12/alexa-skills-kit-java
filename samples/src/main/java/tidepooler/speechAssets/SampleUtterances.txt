@@ -110,6 +110,8 @@ OneshotTideIntent tide information for {City} on {Date}
 OneshotTideIntent get tide information for {City} on {Date}
 OneshotTideIntent get tides for {City} {Date}
 
+DialogFindFramesIntent
+
 SupportedCitiesIntent what cities
 SupportedCitiesIntent what cities are supported
 SupportedCitiesIntent which cities are supported
