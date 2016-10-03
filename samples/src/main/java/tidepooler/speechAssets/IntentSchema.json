@@ -1,4 +1,4 @@
-{
+ {
   "intents": [
     {
       "intent": "OneShotFindFramesIntent",
@@ -21,7 +21,7 @@
         },
         {
           "name": "Shape",
-          "type": "LIST_OF_Shape"
+          "type": "LIST_OF_SHAPE"
         },
         {
           "name": "Rim",
@@ -66,7 +66,7 @@
         },
         {
           "name": "Shape",
-          "type": "LIST_OF_Shape"
+          "type": "LIST_OF_SHAPE"
         },
         {
           "name": "Rim",
