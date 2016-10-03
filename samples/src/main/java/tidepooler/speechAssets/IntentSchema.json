@@ -87,7 +87,7 @@
         {
           "name": "Price",
           "type": "LIST_OF_PRICE"
-        },
+        }
       ]
     },
     {
@@ -98,6 +98,12 @@
     },
     {
       "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
     }
   ]
 }
